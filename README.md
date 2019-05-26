@@ -1,4 +1,5 @@
 ![Twitch](https://img.shields.io/badge/Twitch%20Views-Twitch%20Streams-Purple.svg)
+![Twitch-2](https://img.shields.io/badge/Twitch%20Bot-View%20Bot-Purple.svg)
 
 # twitch-view-bot
 Since Twitch.tv has been blocking lots of view bots, I thought I’d create one the would stand the test of time. You can view the project’s state in the README.md
