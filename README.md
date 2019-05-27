@@ -14,7 +14,7 @@ cd twitch-view-bot
 install.cmd
 cd ..
 cd twitch-view-bot
-start.txt
+start.html
 ```
 
 ##### MacOS and Linux
@@ -25,7 +25,7 @@ cd twitch-view bot
 ./install.command
 cd ..
 cd twitch-view-bot
-./start.txt
+./start.html
 ```
 
 # Installation (if you have Chrome)
@@ -34,7 +34,7 @@ cd twitch-view-bot
 ```
 git clone "https://github.com/le-water/twitch-view-bot"
 cd twitch-view-bot
-start.txt
+start.html
 ```
 
 ##### MacOS and Linux
@@ -42,7 +42,7 @@ start.txt
 ```
 git clone "https://github.com/le-water/twitch-view-bot"
 cd twitch-view-bot
-./start.txt
+./start.html
 ```
 
 # Project State
