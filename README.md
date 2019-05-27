@@ -9,7 +9,7 @@ Since Twitch.tv has been blocking lots of view bots, I thought I’d create one 
 ##### Windows
 
 ```
-git clone "https://github.com/le-water/twitch-view-bot"
+git clone "https://github.com/le-water/twitch-view-bot.git"
 cd twitch-view-bot
 install.cmd
 cd ..
@@ -20,7 +20,7 @@ start.html
 ##### MacOS and Linux
 
 ```
-git clone "https://github.com/le-water/twitch-view-bot"
+git clone "https://github.com/le-water/twitch-view-bot.git"
 cd twitch-view bot
 ./install.command
 cd ..
@@ -32,7 +32,7 @@ cd twitch-view-bot
 ##### Windows
 
 ```
-git clone "https://github.com/le-water/twitch-view-bot"
+git clone "https://github.com/le-water/twitch-view-bot.git"
 cd twitch-view-bot
 start.html
 ```
@@ -40,7 +40,7 @@ start.html
 ##### MacOS and Linux
 
 ```
-git clone "https://github.com/le-water/twitch-view-bot"
+git clone "https://github.com/le-water/twitch-view-bot.git"
 cd twitch-view-bot
 ./start.html
 ```
