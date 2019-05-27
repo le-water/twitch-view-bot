@@ -47,4 +47,4 @@ cd twitch-view-bot
 
 # Project State
 
-Not ready for use. Should be done soon.
+![State-1](https://img.shields.io/badge/State-Not%20Ready%20for%20Use-Red.svg)
